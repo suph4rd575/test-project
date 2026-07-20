@@ -14,7 +14,7 @@ tags:
     description: Task management
 
 paths:
-  /tasks:
+  /tasks-tas:
     get:
       tags:
         - Tasks
