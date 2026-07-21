@@ -1,0 +1,6 @@
+access:
+  rbac:
+    content:
+      '**':
+        Developers: read
+        '*': none
