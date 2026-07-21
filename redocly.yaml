@@ -2,5 +2,7 @@ access:
   rbac:
     content:
       '**':
-        developers: read
+        admins: admin
+        developers: write
+        readers: read
         '*': none
